@@ -47,7 +47,7 @@ Select _API Permissions_ in the _Manage_ section, followed by "_+ Add a permissi
 
 Choose _Microsoft Graph_, then _Application permissions._
 
-Search for "_eduroster_", expand _EduRoster_, select E_duRoster.ReadWrite.All_ and click "Add permissions".
+Search for "_eduroster_", expand _EduRoster_, select EduRoster.ReadWrite.All and click "Add permissions".
 
 Consent by selecting _"✔️_ _Grant admin consent for TENANTNAME"_.
 
