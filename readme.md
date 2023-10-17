@@ -17,7 +17,7 @@ Read step by step doc to install app.
 * Tested with PowerShell version 7.3.6 and above
 * Microsoft.Graph.Beta.Education PowerShell module version 2.7.0 or later
 * MSAL.PS PowerShell module
-* An app installed in your tenant with EduRoster.ReadWrite.All permissions (login using a certificate or client secret)
+* An app installed in your tenant with EduRoster.ReadWrite.All permissions (login using a certificate or client secret) - see [step by step.md](https://github.com/magnusatteamsrocks/TeamsEDU/blob/main/step%20by%20step.md) for full instructions).
 
 ## Authors
 
