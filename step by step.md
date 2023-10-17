@@ -49,6 +49,6 @@ Choose _Microsoft Graph_, then _Application permissions._
 
 Search for "_eduroster_", expand _EduRoster_, select E_duRoster.ReadWrite.All_ and click "Add permissions".
 
-Consent by selecting _"__✔️_ _Grant admin consent for TENANTNAME"_.
+Consent by selecting _"✔️_ _Grant admin consent for TENANTNAME"_.
 
 Proceed with the PowerShell script, and once you succeed with that you should be ready to [try out School Connection](https://support.microsoft.com/en-us/topic/get-to-know-school-connection-fe96d765-f20e-4b75-9d8b-3debc8c2d929?ui=en-us&rs=en-us&ad=us)!
