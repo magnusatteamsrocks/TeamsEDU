@@ -1,6 +1,6 @@
 **School Connection private preview configuration steps**
 
-This will guide you through the process of adding students' parent or guardian information using Graph (PowerShell) and enable School Connection from the Teams Admin Center. You can then download the mobile app from [aka.ms/SchoolConnectionInTeams](https://aka.ms/SchoolConnectionInTeams) and enable School Connection to see student assignments, feedback, insights etc. Learn more about School Connection at [parent.microsoft.com](https://parent.microsoft.com/).
+This will guide you through the process of adding students' parent or guardian information using Graph (PowerShell) and enable School Connection from the Teams Admin Center. You can then download the Teams mobile app from [aka.ms/SchoolConnectionInTeams](https://aka.ms/SchoolConnectionInTeams) and enable School Connection to see student assignments, feedback, insights etc. Learn more about School Connection at [parent.microsoft.com](https://parent.microsoft.com/).
 
 **Prerequisites**
 
