@@ -2,12 +2,12 @@
 
 ## Description
 
-The PowerShell script wil take input from the CSV file to update the relatedContacts information of a set of students student using Graph.
+The PowerShell script wil take input from the CSV file to update the relatedContacts information of a set of students using Graph.
 The main goal of this is to provide relatedContacts information while testing School Connection, with minimal effort.
 
 ## Getting Started
 
-Read step by step doc to install app.
+Read [step by step.md](https://github.com/magnusatteamsrocks/TeamsEDU/blob/main/step%20by%20step.md) for further instructions.
 
 ### Dependencies
 
