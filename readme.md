@@ -2,6 +2,8 @@
 
 ## Description
 
+For testing purposes only - use at your own risk.
+
 The PowerShell script wil take input from the CSV file to update the relatedContacts information of a set of students using Graph.
 The main goal of this is to provide relatedContacts information while testing School Connection, with minimal effort.
 
