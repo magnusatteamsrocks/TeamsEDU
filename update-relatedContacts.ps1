@@ -104,7 +104,8 @@ $students = $relationships | Select-Object studentUPN -Unique
         }
         
         # Pull student id
-        $educationUser = Get-MgBetaEducationUser | ? {$_.mail -like $student.studentUPN}
+        $studentUPN = $student.studentUPN
+ 	$educationUser = Get-MgBetaEducationUser -All -Filter "mail eq '$studentUPN'"
 
         # Update the educationUser-object with the parent information.
         Update-MgBetaEducationUser -EducationUserId $educationUser.id -BodyParameter $params
