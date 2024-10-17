@@ -5,7 +5,6 @@ This will guide you through the process of adding students' parent or guardian i
 **Prerequisites**
 
 - You need Global Admin permissions in your M365 tenant to complete the steps.
-- During the private preview your tenant needs to be provisioned for Teams Admin Center to show the toggle to enable School Connection. To sign up, please fill out this [interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR00rk9rIPFVEpmKOrde5bRJURFAyWTNKSzBJNDBHMlRNQzY1OVhWVEhRTC4u).
 - A CSV file with student and guardian relationships, a PowerShell script to upload the data using Graph run in an environment with the appropriate modules and permissions.
 
 **Enable School Connection in the Teams Admin Center**
@@ -14,7 +13,7 @@ Navigate to admin.teams.microsoft.com, expand _Education_ in the left menu and s
 
 Enable School Connection by turning the toggle. If you don't see the toggle, see the prerequisites above.
 
-**Create an app in AAD/Entra**
+**Create an app in Entra**
 
 In order to interact with the Graph API to update the relatedContacts for students, you need to create and connect using an Application with _EduRoster.ReadWrite.All_ permissions.
 
