@@ -13,7 +13,6 @@ Read [step by step.md](https://github.com/magnusatteamsrocks/TeamsEDU/blob/main/
 
 ### Dependencies
 
-* During the private preview your tenant needs to be provisioned for Teams Admin Center to show the toggle to enable School Connection. To sign up, please fill out this [interest form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR00rk9rIPFVEpmKOrde5bRJURFAyWTNKSzBJNDBHMlRNQzY1OVhWVEhRTC4u)
 * Global Admin and Application Administrator permissions in your M365 tenant
 * A CSV file with student and guardian relationships, there's s a a demo example in this repo
 * Tested with PowerShell version 7.3.6 and above
